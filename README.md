@@ -15,6 +15,8 @@ To build a recommendation engine that answers:
 - Pandas
 - NumPy
 - Scikit-learn
+    - NearestNeighbors
+    - StandardScaler
 ## 📁 How to Run
 1. Clone the repository
 2. Open the Jupyter Notebook
